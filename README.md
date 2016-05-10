@@ -1,3 +1,4 @@
+![Build Status](https://travis-ci.org/dhwanitgupta/regex_for_range.svg?branch=master)
 # RegexForRange
 
 This is simple gem to return all possible regex for range of number
