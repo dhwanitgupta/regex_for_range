@@ -1,6 +1,7 @@
 require 'regex_for_range/version'
 require 'regex_for_range/util'
 require 'regex_for_range/range'
+require 'cli'
 
 module RegexForRange
   class << self
